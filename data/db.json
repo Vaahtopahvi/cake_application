@@ -1,0 +1,179 @@
+{
+  "reseptit": [
+    {
+      "id": 1,
+      "kategoria": "kakut",
+      "title": "Paistettu Juustokakku",
+      "monelle": "10-12 hlölle",
+      "laatija": "Ilona Tjurin",
+      "image": "/Kuvat/paistettu_juustokakku.jpg",
+      "ainekset": [
+        "300g digestive-keksejä",
+        "150g voita",
+        "600g maustamatonta tuorejuustoa",
+        "200g smetanaa (yli 25%)",
+        "130g kuohukermaa",
+        "3 munaa",
+        "1 keltuainen",
+        "150g sokeria",
+        "40g maissitärkkelystä"
+      ],
+      "ohjeet": [
+        "1. Murskaa keksit pieneksi ja sekoita tasaiseksi voisulan kanssa.",
+        "2. Levitä voi-keksiseos leivinpaperilla vuoratun vuoan pohjalle ja reunoille.",
+        "3. Laita pohja jääkaappiin odottamaan.",
+        "4. Yhdistä ja sekoita tasaiseksi (älä vatkaa) tuorejuusto, kuohukerma, smetana ja munat.",
+        "5. Sekoita keskenään toisessa kulhossa sokeri ja maissitärkkelys. Lisää tuorejuustoseokseen. Sekoita tasaiseksi.",
+        "6. Kaada taikina vuokaan ja paista 110 asteessa uunin keskitasolla 3-3,5h. Matala lämpötila ja pitkä paistoaika tekevät juustokakusta pehmoisen sisältä ja sileän päältä.",
+        "7. Tarkista kakun kypsyys liikuttamalla varovasti vuokaa. Kakku on valmis, kun juustokakku on reunoilta jämäkkä, mutta hyllyy vielä vähän keskikohdasta.",
+        "8. Jäähdytä kakku huoneenlämmössä, laita kelmu päälle ja laita yöksi jääkaappiin asettumaan. (Kakun on oltava jääkaapissa vähintään 4-5h, mieluiten aina yön yli.)",
+        "9. Levitä valmiin kakun päälle lemon curdia ja mustikoita, tai muita haluamiasi koristeita."
+      ]
+    },
+    {
+      "id": 2,
+      "kategoria": "kakut",
+      "title": "Mehevät Porkkanakakkupohjat",
+      "monelle": "10-12 hlölle",
+      "laatija": "Ilona Tjurin",
+      "image": "/Kuvat/porkkanakakkupohja.jpg",
+      "ainekset": [
+        "3-4 porkkanaa (n. 400g)",
+        "2dl sokeria",
+        "3 munaa",
+        "4dl jauhoja",
+        "2tl leivinjauhetta",
+        "2tl ruokasoodaa",
+        "1tl kanelia",
+        "1/2 tl muskottipähkinää (tai inkivääriä)",
+        "1/2tl suolaa",
+        "100g saksanpähkinää rouheena",
+        "1,5dl rypsiöljyä"
+      ],
+      "ohjeet": [
+        "1. Vuoraa leivinpaperilla kaksi halk. 15cm vuokaa.",
+        "2. Kuori ja raasta porkkanat. Sekoita raaste haarukalla yhdessä sokerin kanssa isossa kulhossa. Sekoita ja painele siihen asti, että porkkanaraasteesta alkaa erottua mehua.",
+        "3. Lisää munat joukkoon ja sekoita huolellisesti vispilällä.",
+        "4. Yhdistä ja siivilöi kaikki kuivat aineet omassa kulhossa (paitsi pähkinät).",
+        "5. Lisää kuivat aineet taikinan joukkoon. Sekoita.",
+        "6. Lisää pähkinärouhe. Sekoita.",
+        "7. Lisää öljy. Sekoita huolellisesti.",
+        "8. Jaa taikina kahteen vuokaan ja paista 170 asteessa uunin keskitasolla 40-45min. Tarkista kypsyys tikulla.",
+        "Kumoa valmiit kakut ritilälle ja anna jäähtyä liinan alla huoneenlämmössä. Kääri kakut kelmuun ja laita jääkaappiin mielellään yön yli. Leikkaa ja täytä vasta seuraavana päivänä."
+      ]
+    },
+    {
+      "id": 3,
+      "kategoria": "makeat",
+      "title": "Suloiset marenkimuumiot",
+      "monelle": "2 pellillistä",
+      "laatija": "Ilona Tjurin",
+      "image": "/Kuvat/marenki_muumiot.jpg",
+      "ainekset": [
+        "3 valkuaista",
+        "200g sokeria",
+        "1/2 tl etikkaa (tai sitruunamehua)",
+        "1/2 tl vaniljasokeria"
+      ],
+      "ohjeet": [
+        "1. Vatkaa valkuaiset kuohkeaksi vaahdoksi. Valkuaisvaahto on valmista, kun siihen alkaa muodostua pehmeitä huippuja.",
+        "2. Lisää sokeri pienissä erissä vatkaten valkuaisia koko ajan keskinopeudella.",
+        "3. Lisää lopuksi etikka ja vaniljasokeri.",
+        "4. Vatkaa seosta voimakkaasti niin kauan kunnes marengista tulee kiiltävää ja se pitää muotonsa, kun käännät marengin ylösalaisin.",
+        "5. Käytä pursotinpussissa pyöreää tyllaa tai leikkaa vain tasainen aukko pussin suulle. Pursota ensin pieni määrä marenkia leivinpaperille, kiinnitä suolatikku siihen ja pursota päälle muumio. Pursota halutessasi myös luita.",
+        "6. Kiinnitä muumioille silmät. Jos sinulla ei ole valmiita silmiä, voit pursottaa silmät paiston jälkeen esim. tummasta suklaasulasta.",
+        "7. Paista marenkeja uunin keskitasolla 100 asteessa (tai kiertoilmalla 75c) 2,5-3h. Tikkarit ovat valmiita, kun ne irtoavat helposti alustastaan, ja ovat rapeita sisältä.",
+        "Jos teet pieniä marenkeja, paistoaikaa voi vähentää 1,5-2 tuntiin.",
+        "Marengit voi jättää paiston jälkeen uuniin jäähtymään, ja uunin luukun raolleen.",
+        "Marengit säilyy ilmatiiviisti pakattuna huoneenlämmössä useamman viikon."
+      ]
+    },
+    {
+      "id": 4,
+      "kategoria": "kakut",
+      "title": "Vanilijakakkupohjat",
+      "monelle": "4 kakkupohjaa",
+      "laatija": "Ilona Tjurin",
+      "image": "/Kuvat/vaniljakakkupohjat.jpg",
+      "ainekset": [
+        "3 munaa",
+        "160g sokeria",
+        "1dl maitoa",
+        "50g voita",
+        "180g jauhoja (n.3dl)",
+        "1,5tl leivinjauhetta",
+        "2tl vaniljasokeria",
+        "hyppysellinen suolaa"
+      ],
+      "ohjeet": [
+        "1. Vuoraa leivinpaperilla kaksi halk. 15cm kakkuvuokaa.",
+        "2. Vaahdota munat ja sokeri keskiteholla kuohkeaksi vaahdoksi, tähän menee 15-20min.",
+        "3. Yhdistä maito ja voi kulhossa, ja lämmitä mikrossa siihen asti, että voi on sulanut. Sekoita.",
+        "4. Yhdistä toisessa kulhossa keskenään kaikki kuivat aineet. Siivilöi.",
+        "5. Lisää muna-sokerivaahtoon ensin puolet kuivista aineista ja sekoita nuolijalla tasaiseksi. Sen jälkeen lisää puolet voi-maitoseoksesta, sekoita tasaiseksi.",
+        "6. Toista edelliset vaiheet. Sekoita vain siihen asti että kaikki ainekset ovat sekoittuneet, älä vatkaa.",
+        "7. Jaa valmis taikina kahteen vuokaan.",
+        "8. Paista 170 asteessa noin 30min. Testaa tikulla kypsyys.",
+        "9. Jäähdytä kakkupohjia ensin 10-15min vuoissaan. Kumoa sen jälkeen ritilälle jäähtymään. Kääri jäähtyneet kakkupohjat kelmuun ja laita jääkaappiin mielellään yön yli."
+      ]
+    },
+    {
+      "id": 5,
+      "kategoria": "piirakat",
+      "title": "Kookos-mansikkapiiras",
+      "monelle": "Neljälle",
+      "laatija": "Ilona Tjurin",
+      "image": "/Kuvat/kookos_mansikkapiirakka.jpg",
+      "ainekset": [
+        "2,5 dl jauhoja",
+        "1 dl tummaa sokeria",
+        "2 dl kookoshiutaleita",
+        "1/2 tl leivinjauhetta",
+        "125g voita sulatettuna",
+        "Täyte",
+        "2dl kuohukermaa",
+        "1 rkl sokeria",
+        "1 tl vaniljasokeria",
+        "Nutellaa",
+        "Mansikoita"
+      ],
+      "ohjeet": [
+        "1. Sekoita kuivat aineet keskenään kulhossa. Lisää voi ja sekoita tasaiseksi. Painele piirakkavuoan pohjalle ja reunoille (ø24cm).",
+        "2. Paista piirakkapohjaa 200 asteessa 12-15min, kunnes pohja on hieman ruskistunut.",
+        "3. Levitä jäähtyneen pohjan päälle nutellaa oman maun mukaan ja mansikkasiivut. Vatkaa kuohukerma, mausta sokerilla ja levitä mansikoiden päälle.",
+        "4. Koristele kakku mansikoilla ja syötävillä kukilla, tai millä ikinä haluat 😅",
+        "5. Vinkki: varo paistamasta pohjaa liikaa ettei siitä tule liian kova ja vaikeasti leikattava."
+      ]
+    },
+    {
+      "id": 6,
+      "kategoria": "makeat",
+      "title": "Peltipullan täytteenä vaniljatuorejuustoa ja mustikoita",
+      "monelle": "pellillinen",
+      "laatija": "Ilona Tjurin",
+      "image": "/Kuvat/peltipulla_taytteilla.jpg",
+      "ainekset": [
+        "Pullataikina-ainekset",
+        "Marjoja makusi mukaan",
+        "Haluamasi tuorejuusto",
+        "Raesokeria",
+        "1 kananmuna"
+      ],
+      "ohjeet": [
+        "1. Tee pullataikina.",
+        "2. Kauli se 20x30cm kokoiseksi levyksi.",
+        "3. Anna kohota.",
+        "4. Voitele levy munalla.",
+        "5. Tee taikinaan koloja ja täytä ne haluamallasi tuorejuustolla.",
+        "6. Painele koloihin mustikoita tai muita marjoja 😛",
+        "7. Ripottele päälle raesokeria.",
+        "8. Paista 200 asteessa noin 15min."
+      ]
+    }
+  ],
+  "toiveet": {
+    "nimi": "maka",
+    "resepti": "voikreemi",
+    "ltiedot": "asdasdasdasd"
+  }
+}

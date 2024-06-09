@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Montserrat", sans-serif;
+}
+
+
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: 0% 20%;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h4 {
+  font-size: 1.5rem;
+  color: rgb(58, 58, 58);
+}
+h3 {
+  font-size: 1.5rem;
+  color: rgb(58, 58, 58);
+  line-height: 2.5rem;
+  margin: 2rem 0rem;
+}
+
+a {
+  color: rgb(rgb(58, 58, 58));
+}
+
+/*Toive */
+
+.toive {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.toive.label {
+  text-align: left;
+  display: block;
+}
+.toive h2 {
+  font-size: 20px;
+  color: linear-gradient(36deg, rgba(73,73,73,1) 35%, rgba(49,49,49,1) 100%);
+  margin-bottom: 30px;
+}
+.toive input, .toive textarea, .toive select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+}
+.toive button {
+  background: linear-gradient(to right, #f27121, #e94057);
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
