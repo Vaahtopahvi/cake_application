@@ -11,7 +11,6 @@ import { Link } from 'react-router-dom'
 
 const Kakut = (props) => {
     const resepti = props.resepti
-console.log(resepti)
   return (
     <div className='kakut'>
       <Wrapper>
