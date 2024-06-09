@@ -11,7 +11,6 @@ function Resepti() {
 
   const [ActiveTab, setActiveTab] = useState("ohjeet");
 
-  console.log("resepti",resepti)
   return (
     <DetailWrapper>
       <div>
